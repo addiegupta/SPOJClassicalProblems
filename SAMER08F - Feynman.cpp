@@ -2,6 +2,8 @@
 
 SPOJ:3410:SAMER08F - Feynman
 
+Link to problem:http://www.spoj.com/problems/SAMER08F/
+
 How many different squares are there in a grid of N × N squares? Output this number
 
 References: https://www.freemathhelp.com/forum/archive/index.php/t-59905.html
